@@ -233,7 +233,12 @@ li {
     width: 100%;
   }
   #footer {
-    font-size: 1rem;
+    font-size: 0.5rem;
+    img {
+      width: 10px;
+      height: 10px;
+      border-radius: 3px;
+   }
   }
 }
 /*# sourceMappingURL=stylesheet.css.map */
