@@ -232,5 +232,8 @@ li {
   #work li {
     width: 100%;
   }
+  #footer {
+    font-size: 1rem;
+  }
 }
 /*# sourceMappingURL=stylesheet.css.map */
